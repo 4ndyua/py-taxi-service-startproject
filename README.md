@@ -1,4 +1,5 @@
 # Taxi service startproject
+attaching images example
 
 In this task, you will start project `Taxi service`.
 
